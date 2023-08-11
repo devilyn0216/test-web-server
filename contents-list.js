@@ -3,10 +3,10 @@ const contentsList = [
     {url: './style.css', revision: '1'},
     {url: './image-list.js', revision: '1'},
     {url: './star-wars-logo.jpg', revision: '1'},
-    {url: './gallery/myLittleVader.jpg', revision: '5'},
-    {url: './gallery/snowTroopers.jpg', revision: '5'},
+    {url: './gallery/myLittleVader.jpg', revision: '6'},
+    {url: './gallery/snowTroopers.jpg', revision: '6'},
     {url: './gallery/bountyHunters.jpg', revision: '1'},
     {url: './app.js', revision: '1'},
 ];
 
-const isCache = true;
+const isCache = false;

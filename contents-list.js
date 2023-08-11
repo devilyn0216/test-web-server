@@ -4,9 +4,9 @@ const contentsList = [
     {url: './image-list.js', revision: '1'},
     {url: './star-wars-logo.jpg', revision: '1'},
     {url: './gallery/myLittleVader.jpg', revision: '6'},
-    {url: './gallery/snowTroopers.jpg', revision: '6'},
+    {url: './gallery/snowTroopers.jpg', revision: '7'},
     {url: './gallery/bountyHunters.jpg', revision: '1'},
     {url: './app.js', revision: '1'},
 ];
 
-const isCache = false;
+const isCache = true;

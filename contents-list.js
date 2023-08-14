@@ -1,7 +1,7 @@
 const contentsList = [
-    {url: './index.html', revision: '1'},
-    {url: './style.css', revision: '1'},
-    {url: './image-list.js', revision: '1'},
+    {url: './index.html', revision: '2'},
+    {url: './style.css', revision: '2'},
+    {url: './image-list.js', revision: '2'},
     {url: './star-wars-logo.jpg', revision: '1'},
     {url: './gallery/myLittleVader.jpg', revision: '6'},
     {url: './gallery/snowTroopers.jpg', revision: '7'},
